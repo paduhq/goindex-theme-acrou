@@ -65,10 +65,10 @@
             class="navbar-item"
             target="_blank"
             rel="noopener"
-            title="View on github"
-            href="https://github.com/Aicirou/goindex-theme-acrou"
+            title="PaduHQ Facebook"
+            href="https://facebook.com/PaduHQ"
           >
-            <i class="fab fa-github"></i>
+            <i class="fab fa-facebook"></i>
           </a>
           <header-setting />
           <a
